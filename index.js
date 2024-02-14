@@ -20,7 +20,7 @@ const client = new Client({
 });
 
 
-new Deploy().deploy()
+new Deploy().deploy();
 
 //COMMANDS  
 client.commands = new Collection();
