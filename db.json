@@ -1,0 +1,12 @@
+{
+    "players": [
+        {
+            "nome": "Pew",
+            "id": 1
+        },
+        {
+            "nome": "Pirate",
+            "id": 2
+        }
+    ]
+}
