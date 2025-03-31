@@ -1,6 +1,5 @@
 # PewBot - Discord Bot Project 🤖
 
-![GitHub](https://img.shields.io/github/issues/PewDizinho/PewBot?color=blues](https://img.shields.io/github/forks/PewDizinho/Ps](https://img.shields.io/github/stars/PewDizinho/Pord bot developed in JavaScript/Node.js as a personal project for automation and custom interactions.
 
 ## 🚀 Features
 - Slash command system (/)
