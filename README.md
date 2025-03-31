@@ -1,5 +1,8 @@
 # PewBot - Discord Bot Project 🤖
 
+![GitHub](https://img.shields.io/github/issues/PewDizinho/PewBot?color=blue)
+![GitHub forks](https://img.shields.io/github/forks/PewDizinho/PewBot)
+![GitHub stars](https://img.shields.io/github/stars/PewDizinho/PewBot)
 
 ## 🚀 Features
 - Slash command system (/)
